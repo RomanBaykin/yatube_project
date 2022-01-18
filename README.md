@@ -1,6 +1,6 @@
 # Yatube
 
-### Description
+## Description
 
 Social network for blogging
 
