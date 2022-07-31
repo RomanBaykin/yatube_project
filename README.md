@@ -1,25 +1,28 @@
 # Yatube
 
-## Description
+## Описание
 
-Social network for blogging
+Социальная сеть для блогеров. 
+Возможности:
+  - авторизация,
+  - персональные ленты,
+  - комментарии,
+  - возможность подписываться на понравившихся авторов
 
-### Technology
+### Технологии
 
 Python 3.7
 
 Django 2.2.19
 
-### Launch project in developer mode
+### Запуск проекта в режиме разработчика
 
--install and activate virtual environment
+-установить виртуальное окружение
 
-- install dependencies from requirements.txt
+- установить зависимости из requirements.txt
 
-- pip install -r requirements.txt
+- запустить сервер разработчика, командой manage.py file with python manage.py runserver
 
-- in your main folder execute manage.py file with python manage.py runserver
-
-### Author
+### Автор
 
 Roman Baykin aka Soulafein
